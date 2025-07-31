@@ -2,11 +2,11 @@
 
 ### What is it?
 
-It's a home-made alternative to DesktopMate, using a model i found on Sketchfab!
+It's a home-made alternative to DesktopMate, using a model I found on Sketchfab!
 
 ### Okay but why?
 
-This was supposed to originall be a joke, but it got serious enough that i decided to release it.
+This was supposed to originaly be a joke, but it got serious enough that I decided to release it.
 
 ### How did you do this?
 
