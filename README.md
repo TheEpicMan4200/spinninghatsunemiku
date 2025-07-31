@@ -17,3 +17,6 @@ It's fully made in Godot, it's really not that hard to make this.
 No. I refuse to use it.
 
 
+### How do you use it?
+
+Click and drag Miku to move her around, use the scrollwheel to resize her, and right click her torso to show the settings menu.
