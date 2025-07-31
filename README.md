@@ -2,7 +2,7 @@
 
 ### What is it?
 
-It's a home-made alternative to DesktopMate, using a model I found on Sketchfab!
+It's a home-made alternative to DesktopMate and MateEngine, using a model I found on Sketchfab!
 
 ### Okay but why?
 
